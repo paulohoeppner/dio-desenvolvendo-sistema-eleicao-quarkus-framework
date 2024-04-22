@@ -45,7 +45,7 @@ Esse repositório corresponde ao projeto "Desenvolvendo um Sistema para Eleiçã
 
 ## Objetivo
 
-Esse desafio teve a proposta de desenvolvumento de um sistema distribuído e escalável para eleições, contendo aplicações responsáveis para votação, gerenciamento de eleição, e consulta de resultados utilizando Java, Docker, MongoDB e Quarkus.
+Esse desafio teve a proposta de desenvolvimento de um sistema distribuído e escalável para eleições, contendo aplicações responsáveis para votação, gerenciamento de eleição, e consulta de resultados utilizando Java, Docker, MongoDB e Quarkus.
 
 Explorado todos os conceitos que aprendemos nessa imersão e replicado este projeto prático. 
 <br><br>
@@ -53,7 +53,7 @@ Explorado todos os conceitos que aprendemos nessa imersão e replicado este proj
 
 ## Próximos passos
 
-Continuar o evoluindo no estudo do framework Quarkus para futuros projetos e aplicações. 
+Continuar evoluindo no estudo do framework Quarkus para futuros projetos e aplicações. 
 <hr>
 
 ## Tecnologias Utilizadas
