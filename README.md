@@ -58,10 +58,12 @@ Continuar o evoluindo no estudo do framework Quarkus para futuros projetos e apl
 
 ## Tecnologias Utilizadas
 
-<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="75" height="50" hspace="5"/>
-<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="75" height="50" hspace="5"/>
-<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="75" height="60" hspace="5"/>
-<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="75" height="50" hspace="5"/>
+<div>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="75" height="50" hspace="5"/>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="75" height="50" hspace="5"/>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="75" height="60" hspace="5"/>
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="75" height="50" hspace="5"/>
+</div>
 
 ## Cursos Envolvidos
 ### **Coding The Future TONNIE - Java AI Powered** 
